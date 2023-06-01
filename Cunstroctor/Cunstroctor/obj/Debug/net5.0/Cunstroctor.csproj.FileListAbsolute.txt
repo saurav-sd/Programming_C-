@@ -1,0 +1,16 @@
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\bin\Debug\net5.0\Cunstroctor.exe
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\bin\Debug\net5.0\Cunstroctor.deps.json
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\bin\Debug\net5.0\Cunstroctor.runtimeconfig.json
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\bin\Debug\net5.0\Cunstroctor.runtimeconfig.dev.json
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\bin\Debug\net5.0\Cunstroctor.dll
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\bin\Debug\net5.0\ref\Cunstroctor.dll
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\bin\Debug\net5.0\Cunstroctor.pdb
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\obj\Debug\net5.0\Cunstroctor.csproj.AssemblyReference.cache
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\obj\Debug\net5.0\Cunstroctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\obj\Debug\net5.0\Cunstroctor.AssemblyInfoInputs.cache
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\obj\Debug\net5.0\Cunstroctor.AssemblyInfo.cs
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\obj\Debug\net5.0\Cunstroctor.csproj.CoreCompileInputs.cache
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\obj\Debug\net5.0\Cunstroctor.dll
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\obj\Debug\net5.0\ref\Cunstroctor.dll
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\obj\Debug\net5.0\Cunstroctor.pdb
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\Cunstroctor\Cunstroctor\obj\Debug\net5.0\Cunstroctor.genruntimeconfig.cache

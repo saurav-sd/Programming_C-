@@ -1,0 +1,15 @@
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\bin\Debug\net6.0\DesignStack.exe
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\bin\Debug\net6.0\DesignStack.deps.json
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\bin\Debug\net6.0\DesignStack.runtimeconfig.json
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\bin\Debug\net6.0\DesignStack.dll
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\bin\Debug\net6.0\DesignStack.pdb
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\obj\Debug\net6.0\DesignStack.csproj.AssemblyReference.cache
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\obj\Debug\net6.0\DesignStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\obj\Debug\net6.0\DesignStack.AssemblyInfoInputs.cache
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\obj\Debug\net6.0\DesignStack.AssemblyInfo.cs
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\obj\Debug\net6.0\DesignStack.csproj.CoreCompileInputs.cache
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\obj\Debug\net6.0\DesignStack.dll
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\obj\Debug\net6.0\refint\DesignStack.dll
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\obj\Debug\net6.0\DesignStack.pdb
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\obj\Debug\net6.0\DesignStack.genruntimeconfig.cache
+C:\Users\indaws00\Desktop\Backend Dev\OOPS_C#\DesignStack\DesignStack\obj\Debug\net6.0\ref\DesignStack.dll
